@@ -1,0 +1,31 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.20.12",
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@mui/icons-material": "5.11.0",
+    "@mui/material": "5.11.7",
+    "@mui/system": "5.11.7",
+    "@mui/x-data-grid": "5.17.22",
+    "@mui/x-data-grid-premium": "5.17.22",
+    "@mui/x-data-grid-pro": "^5.17.22",
+    "@tanstack/react-table": "^8.7.9",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-filter-box": "3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
